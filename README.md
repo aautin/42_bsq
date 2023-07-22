@@ -1,2 +1,2 @@
 # bsq_42
-This is the piscine's last optional project. It was very fun to do it.
+This is the last optional 42school piscine's project.
